@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: cloud-lib.jar httpcore-4.4.16.jar xmlpull-1.1.3.4a.jar httpc
+ lient-4.5.13.jar commons-logging-1.2.jar
+

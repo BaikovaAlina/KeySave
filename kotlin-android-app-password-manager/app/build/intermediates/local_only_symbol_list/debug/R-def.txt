@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+id btnLoad
+id btnUpload
+id tableLayout
+layout activity_main
+string app_name
+style Base.Theme.PasswordManager
+style Theme.PasswordManager

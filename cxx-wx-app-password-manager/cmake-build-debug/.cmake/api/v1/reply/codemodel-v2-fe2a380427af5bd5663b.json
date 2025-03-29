@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lin-app-cxx-password-manager",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lin-app-cxx-password-manager-Debug-1.0.0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lin-app-cxx-password-manager-Debug-1.0.0-Debug-e8353d5eddae38579814.json",
+					"name" : "lin-app-cxx-password-manager-Debug-1.0.0",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lina/PasswordManager/cxx-wx-app-password-manager/cmake-build-debug",
+		"source" : "/home/lina/PasswordManager/cxx-wx-app-password-manager"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

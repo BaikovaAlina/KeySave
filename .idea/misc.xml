@@ -1,0 +1,5 @@
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$/cxx-wx-app-password-manager">
+    <contentRoot DIR="$PROJECT_DIR$" />
+  </component>
+</project>
